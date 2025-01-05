@@ -1,0 +1,29 @@
+public class MaxScore {
+    public static void main(String[] args) {
+        String s = "011101";
+        System.out.println(maxScore(s));
+    }
+
+    public static int maxScore(String s) {
+        int maxScore = 0;
+        for (int i = 1; i < s.length(); i++) {
+            int zcount = 0;
+            int ocount = 0;
+            for (int j = 0; j < i; j++) {
+                if (s.charAt(j) == '0') {
+                    zcount++;
+                }
+            }
+            for (int k = i; k < s.length(); k++) {
+                if (s.charAt(k) == '1') {
+                    ocount++;
+                }
+            }
+            int score = zcount + ocount;
+            if (score > maxScore) {
+                maxScore = score;
+            }
+        }
+        return maxScore;
+    }
+}
