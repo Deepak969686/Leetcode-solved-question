@@ -1,0 +1,22 @@
+class Solution {
+    public int jump(int[] nums) {
+        int n=nums.length;
+        if(n<=1){
+            return 0;
+        }
+    int jump=0;
+    int cend=0;
+    int fend=0;
+    for(int i=0;i<n-1;i++){
+        fend=Math.max(fend,i+nums[i]);
+        if(i==cend){
+            jump++;
+            cend=fend;
+            if(cend>=n-1){
+                break;
+            }
+        }
+    }
+    return jump;
+    }
+}
