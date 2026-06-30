@@ -69,4 +69,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Depth-First Search
+|  |
+| ------- |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/1319-number-of-operations-to-make-network-connected) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/1319-number-of-operations-to-make-network-connected) |
+## Union-Find
+|  |
+| ------- |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/1319-number-of-operations-to-make-network-connected) |
+## Graph Theory
+|  |
+| ------- |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/1319-number-of-operations-to-make-network-connected) |
 <!---LeetCode Topics End-->
