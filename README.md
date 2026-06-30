@@ -23,10 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
 |  |
 | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
