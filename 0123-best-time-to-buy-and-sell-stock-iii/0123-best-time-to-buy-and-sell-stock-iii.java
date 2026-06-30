@@ -1,27 +1,46 @@
+// space optimize
 class Solution {
-    int n;
-    int[][][] dp;
     public int maxProfit(int[] prices) {
-        n=prices.length;
-        dp=new int[n+1][2][3];
-        for(int idx=n-1;idx>=0;idx--){
-            for(int buy=0;buy<=1;buy++){
-                for(int cap=1;cap<=2;cap++){
-                    if(buy==1){
-                        dp[idx][buy][cap]=Math.max(-prices[idx]+dp[idx+1][0][cap],dp[idx+1][1][cap]);
-                    } else{
-                        dp[idx][buy][cap]=Math.max(prices[idx]+dp[idx+1][1][cap-1],dp[idx+1][0][cap]);
+
+        int[][] after = new int[2][3];
+        int[][] curr = new int[2][3];
+
+        for (int idx = prices.length - 1; idx >= 0; idx--) {
+
+            for (int buy = 0; buy <= 1; buy++) {
+
+                for (int cap = 1; cap <= 2; cap++) {
+
+                    if (buy == 1) {
+
+                        curr[buy][cap] = Math.max(
+                                -prices[idx] + after[0][cap],
+                                after[1][cap]
+                        );
+
+                    } else {
+
+                        curr[buy][cap] = Math.max(
+                                prices[idx] + after[1][cap - 1],
+                                after[0][cap]
+                        );
                     }
                 }
             }
+
+            // Move current row to after
+            for (int buy = 0; buy <= 1; buy++) {
+                for (int cap = 0; cap <= 2; cap++) {
+                    after[buy][cap] = curr[buy][cap];
+                }
+            }
         }
-        return dp[0][1][2];
+
+        return after[1][2];
     }
 }
 
-
 // recursion but TLE
-
 
 // class Solution {
 //     public int maxProfit(int[] prices) {
@@ -61,5 +80,28 @@ class Solution {
 //         } else {
 //             return dp[idx][buy][cap]=Math.max(prices[idx]+solve(idx+1,1,cap-1,prices),solve(idx+1,0,cap,prices));
 //         }
+//     }
+// }
+
+//Bottom Up
+
+// class Solution {
+//     int n;
+//     int[][][] dp;
+//     public int maxProfit(int[] prices) {
+//         n=prices.length;
+//         dp=new int[n+1][2][3];
+//         for(int idx=n-1;idx>=0;idx--){
+//             for(int buy=0;buy<=1;buy++){
+//                 for(int cap=1;cap<=2;cap++){
+//                     if(buy==1){
+//                         dp[idx][buy][cap]=Math.max(-prices[idx]+dp[idx+1][0][cap],dp[idx+1][1][cap]);
+//                     } else{
+//                         dp[idx][buy][cap]=Math.max(prices[idx]+dp[idx+1][1][cap-1],dp[idx+1][0][cap]);
+//                     }
+//                 }
+//             }
+//         }
+//         return dp[0][1][2];
 //     }
 // }
