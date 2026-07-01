@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/0215-kth-largest-element-in-an-array) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0347-top-k-frequent-elements](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/0721-accounts-merge) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0721-accounts-merge](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/0721-accounts-merge) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sliding Window
@@ -110,16 +112,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Bucket Sort
 |  |
