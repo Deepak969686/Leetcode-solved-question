@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0347-top-k-frequent-elements](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/0347-top-k-frequent-elements) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/0721-accounts-merge) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/0347-top-k-frequent-elements) |
 | [0721-accounts-merge](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
 |  |
@@ -69,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/0347-top-k-frequent-elements) |
 | [0721-accounts-merge](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/0721-accounts-merge) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sliding Window
@@ -106,9 +111,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/0347-top-k-frequent-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
