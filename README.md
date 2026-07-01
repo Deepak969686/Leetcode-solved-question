@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Breadth-First Search
 |  |
@@ -80,9 +82,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Graph Theory
 |  |
 | ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/1319-number-of-operations-to-make-network-connected) |
 <!---LeetCode Topics End-->
