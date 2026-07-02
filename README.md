@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/0721-accounts-merge) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -124,11 +127,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -142,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/0023-merge-k-sorted-lists) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Deepak969686/Leetcode-solved-question/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
