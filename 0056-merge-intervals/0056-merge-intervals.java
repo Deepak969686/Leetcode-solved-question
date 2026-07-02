@@ -14,3 +14,45 @@ class Solution {
         return ans.toArray(new int[ans.size()][]);
     }
 }
+
+
+
+// class Solution {
+
+//     public List<List<Integer>> merge(int[][] intervals) {
+
+//         int n = intervals.length;
+
+//         // Sort based on start time
+//         Arrays.sort(intervals, (a, b) -> a[0] - b[0]);
+
+//         List<List<Integer>> ans = new ArrayList<>();
+
+//         for (int i = 0; i < n; i++) {
+
+//             int start = intervals[i][0];
+//             int end = intervals[i][1];
+
+//             // Current interval is already covered
+//             if (!ans.isEmpty() && end <= ans.get(ans.size() - 1).get(1)) {
+//                 continue;
+//             }
+
+//             // Merge all overlapping intervals
+//             for (int j = i + 1; j < n; j++) {
+
+//                 if (intervals[j][0] <= end) {
+
+//                     end = Math.max(end, intervals[j][1]);
+
+//                 } else {
+//                     break;
+//                 }
+//             }
+
+//             ans.add(Arrays.asList(start, end));
+//         }
+
+//         return ans;
+//     }
+// }
